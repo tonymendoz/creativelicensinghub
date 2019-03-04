@@ -2,49 +2,49 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://www.creativelicensinghub.com/index.html</loc>
-    <lastmod>2019-02-04</lastmod>
+    <lastmod>2019-03-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.creativelicensinghub.com/quienes-somos.html</loc>
+    <lastmod>2019-03-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.creativelicensinghub.com/soy-creativo.html</loc>
-    <lastmod>2019-02-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.creativelicensinghub.com/%C2%BFqui%C3%A9nes-somos.html</loc>
-    <lastmod>2019-02-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.creativelicensinghub.com/%C2%BFc%C3%B3mo-funciona.html</loc>
-    <lastmod>2019-02-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.creativelicensinghub.com/%C2%A1%C3%BAnete-hoy!.html</loc>
-    <lastmod>2019-02-04</lastmod>
+    <lastmod>2019-03-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.creativelicensinghub.com/soy-una-empresa.html</loc>
-    <lastmod>2019-02-04</lastmod>
+    <lastmod>2019-03-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.creativelicensinghub.com/faq-s.html</loc>
-    <lastmod>2019-02-04</lastmod>
+    <loc>http://www.creativelicensinghub.com/unete.html</loc>
+    <lastmod>2019-03-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.creativelicensinghub.com/como-funciona.html</loc>
+    <lastmod>2019-03-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.creativelicensinghub.com/faqs.html</loc>
+    <lastmod>2019-03-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.creativelicensinghub.com/images/logosinnombre.jpg</loc>
-    <lastmod>2019-02-04</lastmod>
+    <lastmod>2019-03-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
