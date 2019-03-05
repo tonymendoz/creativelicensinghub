@@ -27,8 +27,8 @@ $form = array(
 		'unknown_method' => 'Método de solicitud de servidor desconocido'
 	),
 	'email' => array(
-		'from' => 'formulario@creativelicensinghub.com',
-		'to' => 'formulario@creativelicensinghub.com'
+		'from' => 'info@creativelicensinghub.com',
+		'to' => 'info@creativelicensinghub.com'
 	),
 	'fields' => array(
 		'custom_U6571' => array(
@@ -81,9 +81,8 @@ $form = array(
 			'order' => 5,
 			'type' => 'string',
 			'label' => 'Sitio web',
-			'required' => true,
+			'required' => false,
 			'errors' => array(
-				'required' => 'El campo \'Sitio web\' es obligatorio.'
 			)
 		),
 		'custom_U6730' => array(
