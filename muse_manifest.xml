@@ -1,22 +1,22 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="www.creativelicensinghub.com" resolutions="1x" timestamp="1551773002002">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="www.creativelicensinghub.com" resolutions="1x" timestamp="1552466308462">
   <folder name="css">
     <file name="site_global.css" crc="4002024881"/>
-    <file name="master_a-p_g_-maestra.css" crc="4191755541" ref="index:soy-creativo:soy-una-empresa:faqs:quienes-somos:unete:como-funciona"/>
-    <file name="nomq_preview_master_a-p_g_-maestra.css" crc="3810365690" ref="index:soy-creativo:soy-una-empresa:faqs:quienes-somos:unete:como-funciona"/>
-    <file name="index.css" crc="48849437" ref="index"/>
-    <file name="nomq_index.css" crc="32693119" ref="index"/>
-    <file name="soy-creativo.css" crc="3813860070" ref="soy-creativo"/>
-    <file name="nomq_soy-creativo.css" crc="423220611" ref="soy-creativo"/>
-    <file name="soy-una-empresa.css" crc="4140225333" ref="soy-una-empresa"/>
-    <file name="nomq_soy-una-empresa.css" crc="4174524928" ref="soy-una-empresa"/>
-    <file name="faqs.css" crc="393717104" ref="faqs"/>
-    <file name="nomq_faqs.css" crc="309990023" ref="faqs"/>
-    <file name="quienes-somos.css" crc="4103484433" ref="quienes-somos"/>
-    <file name="nomq_quienes-somos.css" crc="4100814403" ref="quienes-somos"/>
-    <file name="unete.css" crc="4044136356" ref="unete"/>
-    <file name="nomq_unete.css" crc="3803777191" ref="unete"/>
-    <file name="como-funciona.css" crc="4184038775" ref="como-funciona"/>
-    <file name="nomq_como-funciona.css" crc="4227872879" ref="como-funciona"/>
+    <file name="master_a-p_g_-maestra.css" crc="3853622027" ref="index:soy-creativo:soy-una-empresa:faqs:quienes-somos:unete:como-funciona"/>
+    <file name="nomq_preview_master_a-p_g_-maestra.css" crc="3762135263" ref="index:soy-creativo:soy-una-empresa:faqs:quienes-somos:unete:como-funciona"/>
+    <file name="index.css" crc="263076463" ref="index"/>
+    <file name="nomq_index.css" crc="213704049" ref="index"/>
+    <file name="soy-creativo.css" crc="3979401170" ref="soy-creativo"/>
+    <file name="nomq_soy-creativo.css" crc="49314670" ref="soy-creativo"/>
+    <file name="soy-una-empresa.css" crc="4020322263" ref="soy-una-empresa"/>
+    <file name="nomq_soy-una-empresa.css" crc="479181050" ref="soy-una-empresa"/>
+    <file name="faqs.css" crc="44330989" ref="faqs"/>
+    <file name="nomq_faqs.css" crc="4200548166" ref="faqs"/>
+    <file name="quienes-somos.css" crc="245767556" ref="quienes-somos"/>
+    <file name="nomq_quienes-somos.css" crc="4118727192" ref="quienes-somos"/>
+    <file name="unete.css" crc="4283921864" ref="unete"/>
+    <file name="nomq_unete.css" crc="4214969645" ref="unete"/>
+    <file name="como-funciona.css" crc="200118603" ref="como-funciona"/>
+    <file name="nomq_como-funciona.css" crc="488576212" ref="como-funciona"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:soy-creativo:soy-una-empresa:quienes-somos:como-funciona:unete:faqs"/>
@@ -39,8 +39,7 @@
     <file name="touchswipe.js" crc="404375771" ref="index:quienes-somos:como-funciona:soy-creativo:soy-una-empresa:unete:faqs"/>
   </folder>
   <folder name="images">
-    <file name="u1007-34.png" crc="456688961" ref="index"/>
-    <file name="back_home_v04-crop-u5202.jpg" crc="432125136" ref="index"/>
+    <file name="back_home_v04-crop-u5202.jpg" crc="4288664596" ref="index"/>
     <file name="logosinnombre.jpg" crc="4223500165" seo="true" ref="index:soy-creativo:soy-una-empresa:quienes-somos:como-funciona:unete:faqs"/>
     <file name="blank.gif" crc="4208392903" ref="index:soy-creativo:soy-una-empresa:quienes-somos:como-funciona:unete:faqs"/>
     <file name="u637.png" crc="153356896" ref="index:soy-creativo:soy-una-empresa:quienes-somos:como-funciona:unete:faqs"/>
@@ -64,8 +63,7 @@
     <file name="u795.png" crc="249864747" ref="index:soy-creativo:soy-una-empresa:quienes-somos:como-funciona:unete:faqs"/>
     <file name="u795-r.png" crc="4015144759" ref="index:soy-creativo:soy-una-empresa:quienes-somos:como-funciona:unete:faqs"/>
     <file name="u795-a.png" crc="4015144759" ref="index:soy-creativo:soy-una-empresa:quienes-somos:como-funciona:unete:faqs"/>
-    <file name="u4959-19.png" crc="332854772" ref="quienes-somos"/>
-    <file name="quienessomos2-crop-u6170.png" crc="3814126946" ref="quienes-somos"/>
+    <file name="quienessomos2-crop-u6170.png" crc="3960773483" ref="quienes-somos"/>
     <file name="u5614-19.png" crc="3844261550" ref="como-funciona"/>
     <file name="u5969-4.png" crc="4245226811" ref="como-funciona"/>
     <file name="comofuncacreative_001-crop-u5972.jpg" crc="142413822" ref="como-funciona"/>
@@ -76,7 +74,6 @@
     <file name="u5710-4.png" crc="3905215514" ref="como-funciona"/>
     <file name="u5716-25.png" crc="387039203" ref="como-funciona"/>
     <file name="u5719-25.png" crc="101434260" ref="como-funciona"/>
-    <file name="u5722-4.png" crc="240789101" ref="como-funciona"/>
     <file name="u6066-25.png" crc="139051187" ref="como-funciona"/>
     <file name="u5857-4.png" crc="3974281156" ref="soy-creativo"/>
     <file name="u5864-20.png" crc="34186595" ref="soy-creativo"/>
@@ -149,7 +146,6 @@
     <file name="u6815-ferr2.png" crc="451357805" ref="unete"/>
     <file name="u6513-111.png" crc="312401049" ref="faqs"/>
     <file name="u8957-36.png" crc="450122296" ref="index"/>
-    <file name="u7343-34.png" crc="9727467" ref="index"/>
     <file name="back_home_v04-crop-u7350.jpg" crc="190128791" ref="index"/>
     <file name="u8967-19.png" crc="393294312" ref="quienes-somos"/>
     <file name="quienessomosmobile-crop-u8941.jpg" crc="236024039" ref="quienes-somos"/>
@@ -157,18 +153,13 @@
     <file name="u9131-4.png" crc="180338428" ref="como-funciona"/>
     <file name="comofuncaganar_001-crop-u5731.png" crc="4102577551" ref="como-funciona"/>
     <file name="comofuncamobile-crop-u9019.jpg" crc="4279477090" ref="como-funciona"/>
-    <file name="u9044-19.png" crc="3978624122" ref="como-funciona"/>
     <file name="u9052-6.png" crc="3907987202" ref="como-funciona"/>
     <file name="comofuncacreative_001-crop-u9053.jpg" crc="4132831705" ref="como-funciona"/>
-    <file name="u9051-4.png" crc="316764961" ref="como-funciona"/>
     <file name="comofuncaempre_001-crop-u9080.jpg" crc="394064119" ref="como-funciona"/>
     <file name="u9079-4.png" crc="4058676279" ref="como-funciona"/>
-    <file name="u9078-4.png" crc="4133993944" ref="como-funciona"/>
     <file name="u9106-6.png" crc="4177923766" ref="como-funciona"/>
     <file name="u9107-25.png" crc="445927858" ref="como-funciona"/>
-    <file name="u9108-24.png" crc="433456802" ref="como-funciona"/>
     <file name="u9131-42.png" crc="406346212" ref="como-funciona"/>
-    <file name="u9134-25.png" crc="509357068" ref="como-funciona"/>
     <file name="comofuncaganar_001-crop-u9161.png" crc="343034349" ref="como-funciona"/>
     <file name="creativo_001-crop-u5861.png" crc="526401214" ref="soy-creativo"/>
     <file name="creativojoin_001-crop-u6319.png" crc="317046510" ref="soy-creativo"/>
@@ -194,12 +185,19 @@
     <file name="u9366-10.png" crc="4168961841" ref="soy-una-empresa"/>
     <file name="u9367-7.png" crc="4077138525" ref="soy-una-empresa"/>
     <file name="u9444-111.png" crc="512342505" ref="faqs"/>
+    <file name="u9787-34.png" crc="204656805" ref="index"/>
+    <file name="u4959-20.png" crc="4012636168" ref="quienes-somos"/>
+    <file name="u9044-20.png" crc="3952292803" ref="como-funciona"/>
+    <file name="u9051-5.png" crc="136253215" ref="como-funciona"/>
+    <file name="u9078-5.png" crc="382042159" ref="como-funciona"/>
+    <file name="u9108-25.png" crc="4276746817" ref="como-funciona"/>
+    <file name="u9134-26.png" crc="3956297296" ref="como-funciona"/>
   </folder>
-  <file name="index.html" crc="3993860992" seo="true" mt="1551764838964" redirect="true"/>
-  <file name="soy-creativo.html" crc="4163931203" seo="true" mt="1551770203729" redirect="true"/>
-  <file name="soy-una-empresa.html" crc="291197289" seo="true" mt="1551771684965" redirect="true"/>
-  <file name="quienes-somos.html" crc="4102880580" seo="true" mt="1551765119105" redirect="true"/>
-  <file name="como-funciona.html" crc="7828669" seo="true" mt="1551767922306" redirect="true"/>
-  <file name="unete.html" crc="87388787" seo="true" mt="1551762634143" redirect="true"/>
-  <file name="faqs.html" crc="4221751547" seo="true" mt="1551772629814" redirect="true"/>
+  <file name="index.html" crc="4123545503" seo="true" mt="1552463855772" redirect="true"/>
+  <file name="soy-creativo.html" crc="4216163202" seo="true" mt="1552465894407" redirect="true"/>
+  <file name="soy-una-empresa.html" crc="390286880" seo="true" mt="1552466026062" redirect="true"/>
+  <file name="quienes-somos.html" crc="3973195994" seo="true" mt="1552464152719" redirect="true"/>
+  <file name="como-funciona.html" crc="249647220" seo="true" mt="1552465643211" redirect="true"/>
+  <file name="unete.html" crc="156735493" seo="true" mt="1552462501909" redirect="true"/>
+  <file name="faqs.html" crc="3910967004" seo="true" mt="1552462501909" redirect="true"/>
 </manifest>
